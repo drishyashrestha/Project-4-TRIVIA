@@ -31,13 +31,9 @@ Hints: Add  hints that users can use during the game to get assistance with diff
 https://www.loom.com/share/13b1e54458ef4ec2b62e8fef6c54899e
 
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 
-## Notes
 
-Describe any challenges encountered while building the app.
-I got specifically challenged while linking the API to view cotroller. The implementation of stretch feature was also tough.
 
 ## License
 
